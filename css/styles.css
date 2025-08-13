@@ -112,7 +112,7 @@ body {
 }
 
 /* ─────────── Gradient từng card (có thể chỉnh) ─────────── */
-.a { background: linear-gradient(45deg, #32de84, #deebbb); background-image: url(/photo/1.jpg);}
-.b { background: linear-gradient(45deg, #cf8bf3, #fdb99b); background-image: url(/photo/2.jpg);}
-.c { background: linear-gradient(45deg, #ea52ca, #8ed5f0); background-image: url(/photo/3.jpg);}
-.d { background: linear-gradient(45deg, #967edf, #89ffe3); background-image: url(/photo/4.jpg);}
+.a { background: linear-gradient(45deg, #32de84, #deebbb);}
+.b { background: linear-gradient(45deg, #cf8bf3, #fdb99b);}
+.c { background: linear-gradient(45deg, #ea52ca, #8ed5f0);}
+.d { background: linear-gradient(45deg, #967edf, #89ffe3);}

@@ -12,8 +12,7 @@ const paths      = document.querySelectorAll(".puzzle path");
 const endImg     = document.querySelector(".endImg");
 const cardStack  = document.querySelector(".card-stack");   // section thẻ “card-stack”
 
-/* Ảnh mẫu (có thể thay thế) */
-const kittens = [
+const kittens = window.KITTENS || [
   "https://images.unsplash.com/photo-1587996833651-06a23343b15d",
   "https://images.unsplash.com/photo-1597626259989-a11e97b7772d",
   "https://images.unsplash.com/photo-1615497001839-b0a0eac3274c",
